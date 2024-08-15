@@ -3,7 +3,8 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup , CallbackQuery 
 
 START_MSG="""
-ʜᴇʏ **{}** , ɪ ᴀᴍ {},
+ʜᴇʏ **{}** , 
+ɪ ᴀᴍ {},
 ɪ ʜᴀᴠᴇ sᴏᴍᴇ ɪɴᴛᴇʀᴇsᴛɪɴɢ ᴘʟᴜɢɪɴs ʏᴏᴜ sʜᴏᴜʟᴅ ᴛʀʏ ɪᴛ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴛʜᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ.
 ᴀᴅᴅ ᴍᴇ ɪɴ ᴏᴛʜᴇʀs ɢʀᴏᴜᴘ ᴛᴏ ᴅᴇsᴛʀᴏʏ ɪᴛ.
 """
@@ -33,7 +34,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/tum_jaha_ham_wahi)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/tum_jaha_ham_wahi)
 """
 
 
