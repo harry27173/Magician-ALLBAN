@@ -7,4 +7,4 @@ class Config:
     START_IMG="https://te.legra.ph/file/735920504b44b3565242a.jpg"
     BOT_ID=6567941542
     BOT_USERNAME="MAGICIAN_BANBOT"
-    BOT_NAME="MAGICIAN_BANBOT"
+    BOT_NAME="˹𓆩◕🇲𝗔𝗚𝗜𝗖𝗜𝗔𝗡◕𓆪˼ [🇮🇳]ᵇᵃⁿ"
