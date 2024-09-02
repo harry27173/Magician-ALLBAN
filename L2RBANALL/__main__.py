@@ -32,7 +32,7 @@ filters.command("start")
 async def start_command(client, message: Message):
   await message.reply_photo(
                             photo = f"https://te.legra.ph/file/53e8aeabef1752b4596fc.jpg",
-                            caption = f"━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs ʙω͠ғ ᴜʟᴛʀᴀ ғᴀsᴛ ᴛᴏ ʙᴀɴᴀʟʟ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    : [ᴀsʜɪsʜ](https://t.me/BWF_K_WORLD)\n┣💌 𝗦ԩ𝐚ʏя𝗼 › : [ 𝗦ԩ𝐚ʏя𝗼](https://t.me/SHAYRI_CHANNEL1)┓\n┣💬 sᴜᴘᴘᴏʀᴛ › : [Gʀᴏᴜᴘꨄ︎ʙω͠ғ](https://t.me/BWF_MUSIC1)\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/MUSICBOT_OWNER)\n┣👑 ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/II_ASHISH_GUPTA_IIl) ...\n━━━━━━━━━━━━━━━━━━━━━━━━",
+                            caption = f"━━━━━━━━━━━━━━━━━━━━━━━━\n\n💨 ʜᴇʟʟᴏ, ᴍᴇ ɪs 𝙷𝙰𝚁𝚁𝚈 ᴜʟᴛʀᴀ ғᴀsᴛ ᴛᴏ ʙᴀɴᴀʟʟ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs⚚‎🍒 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣💨 ᴄʀᴇᴀᴛᴇʀ    : [𝖧𝖠𝖱𝖱𝖸](https://t.me/tum_jaha_ham_wahi)\n┣💌 𝗦𝗧𝗬𝗟𝗜𝗦𝗛 𝗡𝗔𝗠𝗘 › : [ 𝗦𝗧𝗬𝗟𝗜𝗦𝗛 𝗡𝗔𝗠𝗘](https://t.me/TG_NAME_STYLE)┓\n┣💬 sᴜᴘᴘᴏʀᴛ › : [𝙷𝙰𝚁𝚁𝚈](https://t.me/harry_bots)\n┣👻 ʙω͠ғꨄ︎ᴍᴜsɪᴄ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/magician_music_bot)\n┣👑 ᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/tum_jaha_ham_wahi) ...\n━━━━━━━━━━━━━━━━━━━━━━━━",
   reply_markup=InlineKeyboardMarkup(
             [
                 [
